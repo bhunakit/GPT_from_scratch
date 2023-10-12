@@ -2,7 +2,7 @@
 Implemented to decoder part of transformer using PyTorch  
 Trained on Harry Potter books 1-4  
 
-900K parameters (compared to GPT3 with 175B parameters 😪)
+900K parameters (ultralight compared to GPT3 with 175B parameters 😪)
 
 ### Before Training:
 
