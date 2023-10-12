@@ -10,7 +10,7 @@ lt5&,S LvFS/0&UFZ/      /vLW%\LuCZCkzQRy2
 kR:Lf&A1dv(0YB]-SX/W1ZBU\K/~H�QLeTv     ]xBuEaBBF&pc;v;^SYCI JyIYu/,uM/cw1vmwP%zmma1B/$dHO;�OJ0Ht&LcXry/GSGbIs_)iQSIJe$HR'Lv1/d0o.&://kPQ]XQ3H)�/zz
 m]
 
-5000 Iterations: Loss 4.7709856033325195 --> 1.778174638748169 
+## 5000 Iterations: Loss 4.7709856033325195 --> 1.778174638748169 
 
 ## After Training:
 
